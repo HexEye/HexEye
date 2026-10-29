@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm HexEye! 👁️ ✨
 
-<!--
-**HexEye/HexEye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **aspiring software developer** passionate about building open-source tools, crafting games, and exploring low-level magic. Currently leveling up my skills, one commit at a time. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I'm Up To
+* 🛠️ **Building:** Currently cooking up a huge, game-changing open-source project!
+* 📚 **Learning:** Deep diving into programming languages, web architecture, and systems development.
+* 🎯 **Goal:** To create powerful, lightweight, and completely accessible tools for everyone.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Let’s Connect
+* 📧 **Email:** HexEyeGitHub@proton.me
